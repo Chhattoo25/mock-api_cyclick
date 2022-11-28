@@ -1,0 +1,29 @@
+{
+  "name": "mock-api_cyclick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "dev":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chhattoo25/mock-api_cyclick.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chhattoo25/mock-api_cyclick/issues"
+  },
+  "homepage": "https://github.com/Chhattoo25/mock-api_cyclick#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
