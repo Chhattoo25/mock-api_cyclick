@@ -3,12 +3,12 @@ const server = jsonServer.create();
 const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 8000;
-// const cors = require('cors');
+const cors = require('cors');
 
-// server.use(cors({
-//  origin:"https://hungry-ruby-trunks.cyclic.app/books",
-//  "Access-Control-Allow-Credentials": true
-// }))
+server.use(cors({
+ origin:["https://hungry-ruby-trunks.cyclic.app/books","http://127.0.0.1:5501/index.html","http://127.0.0.1:5501/adminDashboard.html"],
+ "Access-Control-Allow-Credentials": true
+}))
  
 server.use(middlewares);
 server.use(router);
