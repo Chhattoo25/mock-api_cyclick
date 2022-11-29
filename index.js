@@ -5,7 +5,9 @@ const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 8000;
 const cors = require('cors');
 
-server.use(cors())
+server.use(cors({
+ origin:"https://hungry-ruby-trunks.cyclic.app/books"
+}))
  
 server.use(middlewares);
 server.use(router);
