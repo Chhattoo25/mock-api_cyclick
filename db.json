@@ -11,5 +11,33 @@
       "cost": 1299,
       "borrowed": false
     }
+  ],
+  "employee":[
+    {  "id":1,
+      "company":"Ellette",
+       "postedAt":"2021-03-30",
+       "city":"Gangtok",
+       "location":"American Samoa",
+       "role":"Frontend",
+       "level":"Junior",
+       "contract":"Full Time",
+       "postion":"Backend Development",
+       "language":"Java"
+    },
+    {  "id":2,
+    "company":"Amazon",
+     "postedAt":"2021-04-31",
+     "city":"Banglore",
+     "location":"American Samoa",
+     "role":"Frontend",
+     "level":"Senior",
+     "contract":"Full Time",
+     "postion":"Full Stack Development",
+     "language":"JS"
+  }
   ]
+
+  
+
+
 }
