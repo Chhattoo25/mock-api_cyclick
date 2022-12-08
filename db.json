@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "id":1,
+      "id": 1,
       "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
       "book_name": "Harry Potter and the Philosopher's Stone",
       "author": "J. K. Rowling",
@@ -12,32 +12,14 @@
       "borrowed": false
     }
   ],
-  "employee":[
-    {  "id":1,
-      "company":"Ellette",
-       "postedAt":"2021-03-30",
-       "city":"Gangtok",
-       "location":"American Samoa",
-       "role":"Frontend",
-       "level":"Junior",
-       "contract":"Full Time",
-       "postion":"Backend Development",
-       "language":"Java"
-    },
-    {  "id":2,
-    "company":"Amazon",
-     "postedAt":"2021-04-31",
-     "city":"Banglore",
-     "location":"American Samoa",
-     "role":"Frontend",
-     "level":"Senior",
-     "contract":"Full Time",
-     "postion":"Full Stack Development",
-     "language":"JS"
-  }
+  "user": [
+    {
+      "id": 1,
+      "Username": "ayush",
+      "Avtar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&ixid=eyJhcHBfaWQiOjE3Nzg0fQ",
+      "Full_name": "Ayush Ahirwar",
+      "Email": "ayush@gmail.com",
+      "password": "ayush@123"
+    }
   ]
-
-  
-
-
 }
