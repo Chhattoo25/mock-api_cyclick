@@ -15,10 +15,10 @@
   "user": [
     {
       "id": 1,
-      "Username": "ayush",
-      "Avtar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&ixid=eyJhcHBfaWQiOjE3Nzg0fQ",
-      "Full_name": "Ayush Ahirwar",
-      "Email": "ayush@gmail.com",
+      "username": "ayush",
+      "avtar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&ixid=eyJhcHBfaWQiOjE3Nzg0fQ",
+      "fullname": "Ayush Ahirwar",
+      "email": "ayush@gmail.com",
       "password": "ayush@123"
     }
   ]
