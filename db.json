@@ -26,6 +26,11 @@
   ,
 
   "posts":[
-   
+    {
+      "username": "John Doe",
+      "tweet": "bye",
+      "gif": "https://media3.giphy.com/media/5C0a8IItAWRebylDRX/giphy.gif?cid=fbba2515p5mceg5fvad6q9pbx3f2hfmonuwub0nmwn1b38lk&rid=giphy.gif&ct=g",
+      "id": 1
+      }
   ]
 }
