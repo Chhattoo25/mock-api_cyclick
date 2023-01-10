@@ -39,6 +39,13 @@
       "age": 3,
       "place": "Banglore",
       "gender": "female"
-    }
+    },
+    {
+      "name": "kalu",
+      "age": "5",
+      "gender": "male",
+      "place": "Chhatarpur",
+      "id": 3
+      }
   ]
 }
