@@ -20,6 +20,22 @@
       "fullname": "Ayush Ahirwar",
       "email": "ayush@gmail.com",
       "password": "ayush@123"
+    } ,
+       {
+      "id": 2,
+      "username": "Rajesh",
+      "avtar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&ixid=eyJhcHBfaWQiOjE3Nzg0fQ",
+      "fullname": "Rajesh Ahirwar",
+      "email": "rajesh@gmail.com",
+      "password": "rajesh@123"
+    }  ,
+      {
+      "id": 3,
+      "username": "Keshav",
+      "avtar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&ixid=eyJhcHBfaWQiOjE3Nzg0fQ",
+      "fullname": "Keshav Ahirwar",
+      "email": "keshav@gmail.com",
+      "password": "keshav@123"
     }
   ]
 
