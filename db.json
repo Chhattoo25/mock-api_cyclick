@@ -19,7 +19,8 @@
       "avtar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&ixid=eyJhcHBfaWQiOjE3Nzg0fQ",
       "fullname": "Ayush Ahirwar",
       "email": "ayush@gmail.com",
-      "password": "ayush@123"
+      "password": "ayush@123",
+      "status":"Active"
     } ,
        {
       "id": 2,
@@ -27,7 +28,9 @@
       "avtar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&ixid=eyJhcHBfaWQiOjE3Nzg0fQ",
       "fullname": "Rajesh Ahirwar",
       "email": "rajesh@gmail.com",
-      "password": "rajesh@123"
+      "password": "rajesh@123",
+      "status":"Inactive"
+
     }  ,
       {
       "id": 3,
@@ -35,7 +38,21 @@
       "avtar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&ixid=eyJhcHBfaWQiOjE3Nzg0fQ",
       "fullname": "Keshav Ahirwar",
       "email": "keshav@gmail.com",
-      "password": "keshav@123"
+      "password": "keshav@123",
+      "status":"Active"
+      
+
+    } ,
+     {
+      "id": 4,
+      "username": "Keshav",
+      "avtar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&ixid=eyJhcHBfaWQiOjE3Nzg0fQ",
+      "fullname": "Keshav Ahirwar",
+      "email": "keshav@gmail.com",
+      "password": "keshav@123",
+      "status":"Inactive"
+      
+
     }
   ]
 
